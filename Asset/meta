@@ -1,25 +1,25 @@
 {
-    "Version": 74,
+    "Version": 78,
     "Assets": [
         {
-            "Url": "https://aonyx.ffxiv.wang/File/Get/serveropcode.d42de6d90d9ab83a81807ffa639853a08db591656280bab53125458fff1cb01b.json",
+            "Url": "https://aonyx.ffxiv.wang/File/Get/serveropcode.2d11c22dee913118a83e7f98672ee1a8a4c21eed0577b9b1fd7c79cffd3afbdf.json",
             "FileName": "UIRes/serveropcode.json",
-            "Hash": "E76AEA05AF1C7AA5E9A3515636C837B5B3BECD7B"
+            "Hash": "EEB9AC357E3C18C41CD55DB5EA413E6F135979CA"
         },
         {
-            "Url": "https://aonyx.ffxiv.wang/File/Get/clientopcode.d66fb25b2e043854353bfbc686d5004f6602bd92fc55e71a2ac33dd8d26ec549.json",
+            "Url": "https://aonyx.ffxiv.wang/File/Get/clientopcode.3d491ccd77b4706d5f6425bbdff5060178cc051d4cd16ab23d6e2bddd4f8ead9.json",
             "FileName": "UIRes/clientopcode.json",
-            "Hash": "BCFCF240729E53FCC09A846B6AB077EAED3B2124"
+            "Hash": "4EFD56D0057AE523CC7FE27319AD5A2105813172"
         },
         {
-            "Url": "https://aonyx.ffxiv.wang/File/Get/bannedplugin.042f987d17ac3dcc32ee31253bb6680daaa1ae24f21ebb72f2b47b0b5d0ad4be.json",
+            "Url": "https://aonyx.ffxiv.wang/File/Get/bannedplugin.510ad296de27f3daf0b4b7c2023918192212eb6acdb0af5f4395e39387babb05.json",
             "FileName": "UIRes/bannedplugin.json",
-            "Hash": "35138F81FA9C85CEF0511704AE966A2FAF97D34D"
+            "Hash": "6123DEBD3C8ACA0C934627AA81C115187EE34CA6"
         },
         {
-            "Url": "https://aonyx.ffxiv.wang/File/Get/cheatplugin.011262350f30f39ad448bd802e653a7067c10c072f42cd973c2302c65a5e2661.json",
-            "FileName": "UIRes/cheatplugin_ori.json",
-            "Hash": "AE583BDD2690267A8FA5B96952931A78B556608F"
+            "Url": "https://aonyx.ffxiv.wang/File/Get/cheatplugin.7d71eb12a4db0443b2bfd032018223ab12e099955d091351fe8412332776f51d.json",
+            "FileName": "UIRes/cheatplugin.json",
+            "Hash": "60818476BBE10C4B0A640EFBDB7E3BF73DC89FCE"
         },
         {
             "Url": "https://mirrors.ustc.edu.cn/CTAN/fonts/notocjksc/NotoSansCJKsc-Medium.otf",
